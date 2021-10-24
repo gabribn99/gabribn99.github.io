@@ -3,7 +3,7 @@ title: Hola Mundo!
 published: true
 ---
 ```java
-System.out.println("Hello World");
+System.out.println("Hola Mundo");
 ```
 Hola, mi nombre es Gabriel Ballester Niebla, soy estudiante de **Desarrollo de aplicaciones multiplataformas**. En esta web pretendo compartir mis trabajos para poder recibir feedback de la comunidad además de poder ayudar a otras personas.
 
