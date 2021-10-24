@@ -9,7 +9,7 @@ Hola, mi nombre es Gabriel Ballester Niebla, soy estudiante de **Desarrollo de a
 
 Si quieres contactar conmigo puedes hacerlo a través de mis redes sociales:
 
-**▸ Twitter - @D4rk**
+**▸ Twitter: @D4rk**
 
-**▸ Instagram - gabribn99**
+**▸ Instagram: gabribn99**
 
