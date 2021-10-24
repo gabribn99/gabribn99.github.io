@@ -6,7 +6,7 @@ published: true
 System.out.println("Connection DB");
 ```
 In this app you can connect with a DataBase.
-In this example i am using a vet database. 
+In this example I am using a vet database. 
 
 ![image](https://user-images.githubusercontent.com/56097204/138591258-4c506f91-2a51-45a9-912f-2be3fd54c7b0.png)
 
